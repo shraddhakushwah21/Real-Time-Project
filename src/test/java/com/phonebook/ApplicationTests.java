@@ -41,6 +41,7 @@ class ApplicationTests {
 		System.out.println(contact);
 		assertNull(saveContact);
 	}
+	*/
 	
 	/*
 	 * @Test public void testGetContactById01() throws Exception { Contact
@@ -50,5 +51,5 @@ class ApplicationTests {
 	 * con=service.getContactById(101); System.out.println(con); assertNotNull(con);
 	 * }
 	 */
-	*/
+
 }
