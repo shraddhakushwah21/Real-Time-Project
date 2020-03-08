@@ -15,7 +15,7 @@ import com.phonebook.service.ContactService;
 
 @SpringBootTest
 class ApplicationTests {
-	
+	/*
 	@Autowired
 	private static ContactService service;
 	
@@ -50,4 +50,5 @@ class ApplicationTests {
 	 * con=service.getContactById(101); System.out.println(con); assertNotNull(con);
 	 * }
 	 */
+	*/
 }
